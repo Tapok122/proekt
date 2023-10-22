@@ -1,0 +1,28 @@
+nav {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+body {
+    font-family: sans-serif;
+}
+header {
+border-radius: 10px;
+border: 10px solid green;
+}
+h1 {
+    color: cadetblue;
+    font-size: 40px;
+}
+footer {
+    background-color: white;
+}
+footer p{
+    background-color: green;
+}
+main img {
+    height: 200px;
+    width: 150px;
+}
+main {
+    text-align: center;
+}
